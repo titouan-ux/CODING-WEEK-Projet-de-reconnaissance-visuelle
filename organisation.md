@@ -1,5 +1,4 @@
-Prétraitement image 
-
+Prétraitement image \n
 	Passage en noir et blanc
 	Haar Casascade
 Détecteur d’animal
