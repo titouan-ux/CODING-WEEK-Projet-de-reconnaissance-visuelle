@@ -1,20 +1,23 @@
-Prétraitement image \n
+Prétraitement image : 
 	Passage en noir et blanc
 	Haar Casascade
-Détecteur d’animal
+ 
+Détecteur d’animal :
 	Extraction
 	Resize l’image
 	
-Reconnaissance animaux
+Reconnaissance animaux : 
 	Charger les catégories détectées
 	Appliquer le modèle
 	Appartenance à une catégorie détectée ou des catégories
-Réaction
+ 
+Réaction :
 	Certitude
 	Doute (proba de 0,5) input niveau confiance
 	Bibliothèque envoi mail
 	Nombre d’animaux
-Création interface
+ 
+Création interface :
 	Fichier main
 	Interface graphique (tkinter) ?
 	X	Login (adresse mail) (serveur ?)
@@ -24,11 +27,14 @@ Création interface
 		Outputs
 	Niveau de confiance
 	X Mail
-Performances 
+ 
+Performances : 
 	Charger bases de données
 	Evaluer les performances
 
+
 Quatre modules : prétraitement image, reconnaissance animaux, réaction, performances (et interface).
+
 Répertoire principal : relative_path
 
 
